@@ -33,8 +33,8 @@
 
 ## 🏆 LeetCode Stats:
 <p align="center">
-  <a href="https://leetcode.com/u/balmukund2018/">
-    <img src="https://leetcard.jacoblin.cool/balmukund2018?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Balmukundx/">
+    <img src="https://leetcard.jacoblin.cool/Balmukundx?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
